@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+
+<head> INDEX PAGE </head>
+<br></br>
+<style>
+   body {
+        background-image: url(' women1.jpg');
+        background-size: cover;
+        }
+</style>
+
+<body>
+     <a href="outline.html">Outline</a> <br>
+     <a href="documentation.html">Documentation</a>
+
+</body>
+
+</html>
