@@ -56,23 +56,23 @@
 
     <a href="documentation.html#target">
 
-        <img src="Women Empowerment.jpg" alt="Women Empowerment" width="400" height=200/>
+        <img src="women1.jpg" alt="Women Empowerment" width="400" height=200/>
 
     </a>
 
     <a href="documentation.html#target1">
 
-        <img src="Role of Education.jpg" alt="Role of Education" width="400" height="200" />
+        <img src="role of education.jpg" alt="Role of Education" width="400" height="200" />
 
     </a>
 
     <a href="documentation.html#target2">
 
-        <img src="The Internet use to empower Women.jfif" alt="The Internet use to empower Women" width="400" height="200" />
+        <img src="Internet use.jfif" alt="The Internet use to empower Women" width="400" height="200" />
 
         <a href="documentation.html#target3">
 
-            <img src="Economic Enpowerment.jpg" alt="Economic Enpowerment" class="center" width="370" height="200" />
+            <img src="Economic.jpg" alt="Economic Enpowerment" class="center" width="370" height="200" />
 
 
 
