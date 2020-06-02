@@ -14,7 +14,7 @@
 
     body {
 
-        background-image: url('nancy.jpg');
+        background-image: url('women1.jpg');
 
         background-size: cover;
 
